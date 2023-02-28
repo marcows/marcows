@@ -21,7 +21,7 @@ Project | Contribution | Year
 [GNU roff / groff](https://www.gnu.org/software/groff/) | [bugfix date in PDF metadata](https://git.savannah.gnu.org/cgit/groff.git/commit/?id=2389ba44e01198016df79f2fbd60e6d1fcd1852a), see also patch in [bugtracker](https://savannah.gnu.org/bugs/index.php?43555) | 2014
 [JOSM](https://josm.openstreetmap.de/) | [bugfix imagery offset](https://josm.openstreetmap.de/changeset/8152/josm), see also [bugtracker](https://josm.openstreetmap.de/ticket/11230) | 2015
 [Lexilla (outsourced from Scintilla)](https://www.scintilla.org/Lexilla.html) | lexers for [:mega: **Motorola S-Record**](https://github.com/ScintillaOrg/lexilla/commit/f0533a61c2a0d6aeada8795f533727484d844f38) and [:mega: **Intel HEX**](https://github.com/ScintillaOrg/lexilla/commits?author=marcows), see also [bugtracker](https://sourceforge.net/p/scintilla/feature-requests/1091/) | 2014-2015
-[libsigrok](https://sigrok.org/wiki/Libsigrok) | [bugfixes CSV input and C++ bindings](http://sigrok.org/gitweb/?p=libsigrok.git;a=search;s=Markus+Heidelberg;st=author) | 2022
+[libsigrok](https://sigrok.org/wiki/Libsigrok) | [bugfixes CSV input and C++ bindings](https://sigrok.org/gitweb/?p=libsigrok.git;a=search;s=Markus+Heidelberg;st=author) | 2022
 [libusb](https://libusb.info/) | [AMD USB 3.0 root hub support](https://github.com/libusb/libusb/commits?author=marcows) | 2014
 [Linux](https://kernel.org/) | [mostly kconfig/qconf fixes/improvements](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=Markus+Heidelberg) | 2008-2009
 [LXDE lxsession](https://www.lxde.org/) | [translation fixes](https://github.com/lxde/lxsession/commit/a6a7f5b38465abc885ba89f4e48cf82607bae442) | 2010
