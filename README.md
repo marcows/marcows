@@ -3,12 +3,12 @@
 When encountering a bug, usually
 
 <details>
-<summary>I try to fix it myself :wrench:</summary>
+<summary>I try to fix it myself :wrench: (please toggle!)</summary>
 
 So there are several projects with just a single or a handful of commits.
 Even in programming languages like Java where I don't have a clue about.
 
-My personal highlights are marked with :mega:
+My **personal highlights** are marked with :mega:
 
 Project | Contribution | Year
 --------|--------------|-----
