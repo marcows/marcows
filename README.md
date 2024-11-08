@@ -13,7 +13,7 @@ My **personal highlights** are marked with :mega:
 Project | Contribution | Year
 --------|--------------|-----
 [beautified-JOSM-preset](https://simonpoole.github.io/beautified-JOSM-preset/) | [bugfix](https://github.com/simonpoole/beautified-JOSM-preset/commit/7fea77a16835b64727f13d2ad747b0058b550524) | 2019
-[Buildroot](https://buildroot.org/) | [:mega: **gstreamer packages**](https://lists.buildroot.org/pipermail/buildroot/2008-November/326408.html) for [Qtopia Phonon support](https://lists.buildroot.org/pipermail/buildroot/2008-December/326662.html)<br/>[bugfixes/improvements](https://git.busybox.net/buildroot/log/?qt=grep&q=Markus+Heidelberg) | 2008-2009
+[Buildroot](https://buildroot.org/) | [:mega: **gstreamer packages**](https://lists.buildroot.org/pipermail/buildroot/2008-November/011783.html) for [Qtopia Phonon support](https://lists.buildroot.org/pipermail/buildroot/2008-December/012037.html)<br/>[bugfixes/improvements](https://git.busybox.net/buildroot/log/?qt=grep&q=Markus+Heidelberg) | 2008-2009
 [BusyBox](https://busybox.net/) | [bug/doc fixes](https://git.busybox.net/busybox/log/?qt=grep&q=Markus+Heidelberg) | 2008
 [Device Tree Compiler (dtc)](https://github.com/dgibson/dtc) | [doc fix](https://github.com/dgibson/dtc/commit/bcd02b523429fed05fdf3751e7074367741bbfbd) | 2024
 [file](https://darwinsys.com/file/) | new/improved magic: [epoc, .pmb](https://github.com/file/file/commit/a468f9e294bb76aae2994fb65c93d70c12255ab0), [.osm.pbf, .osm](https://github.com/file/file/commit/b2961cef26de6558d5ef12cacd23bebd01be4c9c), [.gpl](https://github.com/file/file/commit/760ee79679da843a7a80297be165133aaebb1d7f), [.prt](https://github.com/file/file/commit/5942cebb91aadc544064e1f1c33af6e314677fb1) | 2012-2014
